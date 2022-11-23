@@ -1,0 +1,17 @@
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\bin\Debug\net6.0-windows\homework2.exe
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\bin\Debug\net6.0-windows\homework2.deps.json
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\bin\Debug\net6.0-windows\homework2.runtimeconfig.json
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\bin\Debug\net6.0-windows\homework2.dll
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\bin\Debug\net6.0-windows\homework2.pdb
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.csproj.AssemblyReference.cache
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.Form1.resources
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.csproj.GenerateResource.cache
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.GeneratedMSBuildEditorConfig.editorconfig
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.AssemblyInfoInputs.cache
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.AssemblyInfo.cs
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.csproj.CoreCompileInputs.cache
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.dll
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\refint\homework2.dll
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.pdb
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\homework2.genruntimeconfig.cache
+E:\برمجه المرئيه\visual programming-async\calculator\homework2\obj\Debug\net6.0-windows\ref\homework2.dll
